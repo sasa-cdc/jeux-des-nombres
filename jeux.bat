@@ -4,7 +4,7 @@ COLOR 03
 title jeu by sasa
 cls
 echo                   Trouve le nombre entre 0 - 100   
-echo                       BY SASA (!" Iroo#8720)
+echo                       BY WASSIM
 
 set /a Nba=%Random% %%100
 set /a Nc=0
